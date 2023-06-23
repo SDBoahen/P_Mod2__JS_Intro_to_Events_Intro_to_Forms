@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+}
+
+
+h1 {
+    text-align: center;
+}
+
+
+form {
+    margin: 50px;
+    text-align: center;
+}
+
+
+#list {
+    text-align: center;
+
+    padding: 100px;
+}
+
